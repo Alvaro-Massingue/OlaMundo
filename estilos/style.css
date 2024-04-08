@@ -4,24 +4,15 @@
        margin-top: 145px;
    }
 }
-@media (min-width: 501px) and (max-width: 750px){
+@media (min-width: 501px) and (max-width: 700px){
    .ss{
       margin-top: 150px;
    }
-   section>p{
-      width: 50%;
-   }
-   footer{
-      height: 300px;
-   }
-   main>div{
-      margin-top: 195px;
-      height: 35vh;
-   }
+  
 
 }
 
-@media (min-width:751px) and (max-width:900px){
+@media (min-width:701px) and (max-width:900px){
    .ss{
       margin-top: 145px;
       width: 190px;

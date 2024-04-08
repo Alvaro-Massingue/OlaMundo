@@ -51,11 +51,12 @@ main>div{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 65px;
-    height: 25vh;
-    width: 60%;
+    margin-top: 195px;
+    height: 35vh;
+    width: 70%;
     background-color: rgba(255, 255, 255, 0.452);
     color: white;
+    
 }
 main>div>p{
   
@@ -149,7 +150,7 @@ section{
     padding: 19px;
 }
 footer{
-    
+    height: 300px;
     p{
         font-size: 14.4px;
     }
